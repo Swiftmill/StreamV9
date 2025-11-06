@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "id": "af7e8f8d-9739-4fbc-9b27-6b3a2e51872a",
+      "name": "Action",
+      "slug": "action",
+      "order": 0
+    },
+    {
+      "id": "b54c5e33-83e9-42fb-826a-04f1a53a4c6a",
+      "name": "Science Fiction",
+      "slug": "science-fiction",
+      "order": 1
+    },
+    {
+      "id": "c78f3d8d-2ce4-4330-9d51-43f7e3b5c179",
+      "name": "Drama",
+      "slug": "drama",
+      "order": 2
+    }
+  ]
+}

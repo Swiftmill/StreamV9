@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "d7b3c4f3-0de3-4a32-94e7-3b8b7ebf4b91",
+      "username": "jane",
+      "passwordHash": "$2a$10$CwTycUXWue0Thq9StjUM0uJ8BJOCa/lsW2gK4/0grm6u9dS.8v8W.",
+      "role": "user",
+      "active": true,
+      "createdAt": "2024-01-02T00:00:00.000Z",
+      "updatedAt": "2024-01-02T00:00:00.000Z"
+    }
+  ]
+}

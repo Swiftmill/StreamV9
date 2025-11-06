@@ -1,0 +1,60 @@
+{
+  "id": "5f690cfa-1c24-4ed5-9274-7fd1c772a9fa",
+  "name": "Echoes of Atlas",
+  "slug": "echoes-of-atlas",
+  "description": "Explorers uncover a lost civilization whose technology could reshape the galaxy.",
+  "posterUrl": "https://cdn.example.com/images/echoes-of-atlas-poster.jpg",
+  "categories": [
+    "af7e8f8d-9739-4fbc-9b27-6b3a2e51872a",
+    "b54c5e33-83e9-42fb-826a-04f1a53a4c6a"
+  ],
+  "seasons": [
+    {
+      "season": 1,
+      "episodes": [
+        {
+          "id": "9c4ef09c-dc3c-414f-b139-873d8cea5041",
+          "title": "First Light",
+          "description": "The crew answers a distress call that reveals the entrance to Atlas.",
+          "season": 1,
+          "episode": 1,
+          "duration": 48,
+          "streamUrl": "https://videos.local/series/echoes-of-atlas/s1e1/master.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://cdn.example.com/subs/echoes-of-atlas-s1e1-en.vtt"
+            }
+          ],
+          "published": true,
+          "views": 542,
+          "lastUpdated": "2024-01-11T09:00:00.000Z"
+        },
+        {
+          "id": "858f65ce-5086-4b11-9c10-2f497acf7d9c",
+          "title": "A City Below",
+          "description": "The team ventures into the submerged ruins and awakens an ancient guardian.",
+          "season": 1,
+          "episode": 2,
+          "duration": 51,
+          "streamUrl": "https://videos.local/series/echoes-of-atlas/s1e2/master.m3u8",
+          "subtitles": [
+            {
+              "lang": "en",
+              "label": "English",
+              "url": "https://cdn.example.com/subs/echoes-of-atlas-s1e2-en.vtt"
+            }
+          ],
+          "published": true,
+          "views": 498,
+          "lastUpdated": "2024-01-12T15:30:00.000Z"
+        }
+      ]
+    }
+  ],
+  "published": true,
+  "featured": true,
+  "createdAt": "2024-01-05T08:00:00.000Z",
+  "updatedAt": "2024-01-12T15:30:00.000Z"
+}
