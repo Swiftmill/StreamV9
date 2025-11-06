@@ -1,0 +1,60 @@
+{
+  "movies": [
+    {
+      "id": "d25f9c88-1f52-4a2f-9f7d-4c571bfcf5af",
+      "title": "Orbital Dawn",
+      "slug": "orbital-dawn",
+      "description": "A stranded crew fights to return home as their space station spirals toward Earth.",
+      "year": 2023,
+      "duration": 128,
+      "posterUrl": "https://cdn.example.com/images/orbital-dawn-poster.jpg",
+      "streamUrl": "https://videos.local/streams/orbital-dawn/playlist.m3u8",
+      "subtitles": [
+        {
+          "lang": "en",
+          "label": "English",
+          "url": "https://cdn.example.com/subs/orbital-dawn-en.vtt"
+        },
+        {
+          "lang": "fr",
+          "label": "Français",
+          "url": "https://cdn.example.com/subs/orbital-dawn-fr.vtt"
+        }
+      ],
+      "categories": [
+        "af7e8f8d-9739-4fbc-9b27-6b3a2e51872a",
+        "b54c5e33-83e9-42fb-826a-04f1a53a4c6a"
+      ],
+      "published": true,
+      "featured": true,
+      "views": 1345,
+      "createdAt": "2024-01-10T10:00:00.000Z",
+      "updatedAt": "2024-01-10T10:00:00.000Z"
+    },
+    {
+      "id": "7ed0ef02-3d04-4e1e-9576-297927651c01",
+      "title": "Silent Harbor",
+      "slug": "silent-harbor",
+      "description": "A retired detective returns to her coastal hometown to solve a string of disappearances.",
+      "year": 2022,
+      "duration": 112,
+      "posterUrl": "https://cdn.example.com/images/silent-harbor-poster.jpg",
+      "streamUrl": "https://videos.local/streams/silent-harbor/master.m3u8",
+      "subtitles": [
+        {
+          "lang": "en",
+          "label": "English",
+          "url": "https://cdn.example.com/subs/silent-harbor-en.vtt"
+        }
+      ],
+      "categories": [
+        "c78f3d8d-2ce4-4330-9d51-43f7e3b5c179"
+      ],
+      "published": true,
+      "featured": false,
+      "views": 872,
+      "createdAt": "2024-01-09T12:00:00.000Z",
+      "updatedAt": "2024-01-12T08:00:00.000Z"
+    }
+  ]
+}
